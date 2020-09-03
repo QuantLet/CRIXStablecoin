@@ -1,4 +1,4 @@
-﻿Name of Quantlet: 'NextUnicorn_LogisticRegression'
+﻿Name of Quantlet: 'CRIXcoin.sol'
 
 
 Published in: TBC
